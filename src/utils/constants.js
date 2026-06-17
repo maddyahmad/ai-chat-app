@@ -1,0 +1,10 @@
+export const CANNED_REPLIES = [
+    "That's a great question! The key insight here is to break the problem into smaller, well-defined parts. Each part can then be solved independently before being composed into a final answer.",
+    "Interesting — let me think through this step by step.\n\n**First**, we should identify the core requirement.\n**Then**, consider the constraints.\n**Finally**, arrive at a solution that satisfies both.\n\nIn your case, the most effective path forward is to start with the simplest working version and iterate.",
+    "Here are a few things worth knowing:\n\n- **Clarity** matters more than cleverness in most situations.\n- **Iteration** beats perfection — ship early, improve often.\n- **Context** shapes every decision; there's rarely a universal answer.\n\nHope that helps frame things!",
+    "Great point. The underlying principle here is that systems behave predictably when their inputs and outputs are well-defined. When you keep interfaces narrow and responsibilities focused, complexity stays manageable.",
+    "I'd approach this by asking: *what does success look like here?* Once that's clear, the steps to get there tend to fall into place naturally. Start with the outcome and work backwards.",
+    "Sure! Here's a quick overview:\n\n1. Define the problem precisely.\n2. Research existing solutions — don't reinvent the wheel.\n3. Prototype the simplest possible version.\n4. Test with real inputs.\n5. Refine based on feedback.\n\nThis loop applies whether you're building software, writing, or solving logic puzzles.",
+    "That's a nuanced topic. On one hand, the conventional wisdom says X; on the other, emerging evidence suggests Y. The pragmatic answer depends on your specific constraints — what trade-offs matter most to you?",
+    "The short answer: it depends. But here's a useful heuristic — when in doubt, optimise for **readability** and **reversibility**. Code that's easy to understand is easy to change, and easy to change is easy to fix.",
+  ];
